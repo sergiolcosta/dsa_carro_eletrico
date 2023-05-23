@@ -1,0 +1,12 @@
+Projeto 01 - Projeto com FeedBack - DSA
+
+Projeto realizado para o curso Formação Cientista de Dados da escola
+DSA (Data Science Academy).
+
+Nesse projeto é realizado a analise e criado um modelo de Machine Learning
+para prever o consumo de energia de carro elétrico.
+
+Foi utilizado a linguagem R e o Rstudio para o desenvolvimento do código e
+Regressão Logistica para a criação do modelo de Machine Learning.
+
+Foi alcançado aproximadamente 92% de acurácia no modelo.
